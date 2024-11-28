@@ -47,8 +47,8 @@ Hi there! 👋 I'm ARO, a passionate **AWS DevOps Engineer** with a knack for au
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### Language Proficiency
-- **Java**: Advanced 🟢🟢🟢🟢🟢
-- **Python**: Intermediate 🟢🟢🟢🟢⚪
+- **Java**: Advanced 🟢🟢🟢🟢⚪
+- **Python**: Intermediate 🟢🟢🟢⚪⚪
 - **JavaScript**: Intermediate 🟢🟢🟢⚪⚪
 
 ---
